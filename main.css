@@ -1,0 +1,65 @@
+.main-box {
+    display: block;
+    align-items: center;
+    background-color: rgb(50, 50, 50);
+    padding: 2% 1% 1% 1%;
+    margin-top: -1%;
+    margin-left: -1%;
+    width: 100%;
+}
+
+/* ---------------------------------------------------------- */
+
+.decs {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+    margin-top: -1%;
+}
+
+.img-profile {
+    width: 10%;
+    height: 10%;
+    border-radius: 40px;
+}
+
+.text-decs {
+    color: white;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+/* ----------------------------------------------------------------- */
+
+.info-box {
+    width: 47.5%;
+    margin-left: 27.5%;
+}
+
+/* ----------------------------------------------------------------- */
+
+.path-items {
+    display: flex;
+    justify-content: center;
+}
+
+.facebook-path {
+    color: rgb(55, 0, 184);
+    text-decoration: none;
+    font-size: 200%;
+    margin-right: 5%;
+}
+
+.youtube-path {
+    color: rgb(184, 0, 0);
+    text-decoration: none;
+    font-size: 200%;   
+    margin-right: 5%;
+}
+
+.github-path {
+    color: rgb(27, 27, 27);
+    text-decoration: none;
+    font-size: 200%;   
+}
